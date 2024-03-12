@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 243, 196);
+}
+h1{
+    color: red;
+}
+div{
+    color: rgb(8, 8, 81);
+    margin: 10px ;
+    margin-left: 0;
+}
+span{
+    font-weight: 700;
+    padding-left: 5px;
+}
+a{
+    color: rgb(193, 34, 193);
+}
